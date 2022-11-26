@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Fase1_Jhon_Zuñiga</id>
+    <version>1.0.0</version>
+    <authors>Fase1_Jhon_Zuñiga</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\usuario\Documents\UNAD\5. QUINTO SEMESTRE\Estructura de datos\Fase 2 - Abstraccion\Fase1_Jhon_Zuñiga\Fase1_Jhon_Zuñiga\bin\Debug\net6.0-windows\Fase1_Jhon_Zuñiga.runtimeconfig.json" target="lib\net6.0-windows7.0\Fase1_Jhon_Zuñiga.runtimeconfig.json" />
+    <file src="C:\Users\usuario\Documents\UNAD\5. QUINTO SEMESTRE\Estructura de datos\Fase 2 - Abstraccion\Fase1_Jhon_Zuñiga\Fase1_Jhon_Zuñiga\bin\Debug\net6.0-windows\Fase1_Jhon_Zuñiga.dll" target="lib\net6.0-windows7.0\Fase1_Jhon_Zuñiga.dll" />
+  </files>
+</package>
